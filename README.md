@@ -87,6 +87,7 @@ source:存放静态资源
 tab切换：很普通的需求，点击tab切换，下面的列表数据切换成对应的数据，如下图
 
 ![tab](readme-source/images/9.png "tab")
+
  可扫下面码体验：
 
  ![zhangyu](readme-source/images/10.png "zhangyu")
@@ -107,6 +108,7 @@ tab切换：很普通的需求，点击tab切换，下面的列表数据切换�
 
 对应的效果，大家可以进入小程序体验下，对应着h5，可以看出明显的差别。
 
+![章鱼小程序](readme-source/images/4.jpeg "章鱼小程序")
 
 ### 项目总结
 
