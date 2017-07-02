@@ -60,10 +60,13 @@ wxpage是在2016年年底去上海参加微信小程序的公开课的时候了�
 
 comps:顾名思义，components组件。我会把项目中通用的部分模块化，组件化，如通用底部、loading、章鱼形象、搜索框、门票、列表等。
 
-libs:用到的一些库  
+libs:用到的一些库
      * [wxParse](https://github.com/icindy/wxParse):用于富文本解析。小程序不支持html里面的标签，所以这里需要对富文本的内容进行解析，生成能运行在小程序里的代码。感谢这样的人民工程师，不然富文本解析这个让我一个菜鸟来解决的话，估计得哭晕在厕所吧。(记得没错的话，这个的作者是白鹭时代的开发)
+
      * promise:小程序支持es6的大部分语法，起初是支持promise的，忘了是因为啥后来不支持，所以这里得手动引入promise。
+
      * [wxqrcode](https://kazuhikoarase.github.io/qrcode-generator/):因项目需要把一串码生成一个二维码用户线下扫码。
+     
      * wxpage:前面说的项目基础框架
 
 pages:项目所涉及到的页面
