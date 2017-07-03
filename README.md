@@ -62,7 +62,7 @@ comps:顾名思义，components组件。我会把项目中通用的部分模块�
 
 libs:用到的一些库
 
- * [wxParse](https://github.com/icindy/wxParse):用于富文本解析。小程序不支持html里面的标签，所以这里需要对富文本的内容进行解析，生成能运行在小程序里的代码。感谢这样的人民工程师，不然富文本解析这个让我一个菜鸟来解决的话，估计得哭晕在厕所吧。(记得没错的话，这个的作者是白鹭时代的开发)
+ * [wxParse](https://github.com/icindy/wxParse):用于富文本解析。小程序不支持html里面的标签，所以这里需要对富文本的内容进行解析，生成能运行在小程序里的代码。感谢这样的人民工程师，不然富文本解析这个让我一个菜鸟来解决的话，估计得哭晕在厕所吧。wxParse的作者是(icindy)[https://github.com/icindy/]，不好意思之前记错了/捂脸。
 
  * promise:小程序支持es6的大部分语法，起初是支持promise的，忘了是因为啥后来不支持，所以这里得手动引入promise。
 
